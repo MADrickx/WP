@@ -1,0 +1,19 @@
+[21/Sep/2021:14:55:41] (I): WordPress Instance Info:
+[21/Sep/2021:14:55:41] (I): Home URL : http://localhost
+[21/Sep/2021:14:55:41] (I): Site URL : http://localhost
+[21/Sep/2021:14:55:41] (I): WordPress Version : 5.8.1
+[21/Sep/2021:14:55:41] (I): Onboarding Version : 1.1.17
+[21/Sep/2021:14:55:41] (I): Multisite : No
+[21/Sep/2021:14:55:41] (I): Server Info : Apache/2.4.48 (Debian)
+[21/Sep/2021:14:55:41] (I): PHP Version : 7.4.23
+[21/Sep/2021:14:55:41] (I): HTTPS : No
+[21/Sep/2021:14:55:41] (I): PHP Max Execution Time : 30
+[21/Sep/2021:14:55:41] (I): PHP Max Input Vars : 1000
+[21/Sep/2021:14:55:41] (I): Max Upload Size : 2097152
+[21/Sep/2021:14:55:41] (I): Plugins:
+[21/Sep/2021:14:55:41] (I): [PLUGIN] Advanced Custom Fields: Image Crop Add-on : v1.4.12 (Anders Thorborg)
+[21/Sep/2021:14:55:41] (I): [PLUGIN] Advanced Custom Fields PRO : v5.10.2 (Delicious Brains)
+[21/Sep/2021:14:55:41] (I): [PLUGIN] FakerPress : v0.5.1 (Gustavo Bordoni)
+[21/Sep/2021:14:55:41] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.9 (ThemeIsle)
+[21/Sep/2021:14:55:41] (I): [PLUGIN] Templates Patterns Collection : v1.1.17 (ThemeIsle)
+[21/Sep/2021:14:55:41] (I): [PLUGIN] Orbit Fox Companion : v2.10.7 (Themeisle)
